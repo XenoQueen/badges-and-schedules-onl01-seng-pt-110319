@@ -17,3 +17,4 @@ def assign_rooms(room)
   find_rooms
 end
 
+def printer()
