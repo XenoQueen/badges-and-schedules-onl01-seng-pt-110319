@@ -16,3 +16,4 @@ def assign_rooms(room)
   end
   find_rooms
 end
+
